@@ -3,7 +3,6 @@
 
 using namespace std;
 
-void changeBackgroundColor();
 void display();
 
 int main(int argc, char** argv) {
